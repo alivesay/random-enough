@@ -2,18 +2,16 @@
   "name": "random-enough",
   "version": "1.0.0",
   "author": "Andrew Livesay <andrew.livesay@gmail.com>",
-  "private": true,
-  "repository": "https://github.com/alivesay/random-enough",
+  "description": "For when crypto.randomBytes() would be nice, but crypto.pseudoRandomBytes() is good enough.",
+  "repository": "git://github.com/alivesay/random-enough",
   "main": "index",
   "keywords": [
     "random",
-    "entropy"
+    "entropy",
+    "crypto"
   ],
   "engines": {
     "node": ">=0.10.22"
-  },
-  "dependencies": {
-    "async": "0.2.x"
   },
   "licenses": [
     {
