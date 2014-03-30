@@ -1,0 +1,24 @@
+{
+  "name": "random-enough",
+  "version": "1.0.0",
+  "author": "Andrew Livesay <andrew.livesay@gmail.com>",
+  "private": true,
+  "repository": "https://github.com/alivesay/random-enough",
+  "main": "index",
+  "keywords": [
+    "random",
+    "entropy"
+  ],
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "async": "0.2.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/alivesay/catbox-crypto/master/LICENSE"
+    }
+  ]
+}
