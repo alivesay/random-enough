@@ -1,6 +1,6 @@
 {
   "name": "random-enough",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Andrew Livesay <andrew.livesay@gmail.com>",
   "description": "For when crypto.randomBytes() would be nice, but crypto.pseudoRandomBytes() is good enough.",
   "repository": "git://github.com/alivesay/random-enough",
